@@ -1,0 +1,10 @@
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\bin\Debug\Snowfall.exe.config
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\bin\Debug\Snowfall.exe
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\bin\Debug\Snowfall.pdb
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.csprojAssemblyReference.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.Form1.resources
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.Properties.Resources.resources
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.csproj.GenerateResource.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.csproj.CoreCompileInputs.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.exe
+D:\Isx@dn1k1\C#\exemple\Basic Project\Snowfall\obj\Debug\Snowfall.pdb
